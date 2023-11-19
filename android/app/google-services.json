@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976357128584",
+    "project_id": "grandshop-58ec3",
+    "storage_bucket": "grandshop-58ec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976357128584:android:ce77c42167ad84e620e23d",
+        "android_client_info": {
+          "package_name": "com.example.grandshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976357128584-n8gqseeg4il50gh6qi4nkaiajmgdqp6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuJa1kuJPqQEQ1UP4aJcSg5VO9nJLF7gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976357128584-n8gqseeg4il50gh6qi4nkaiajmgdqp6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
